@@ -14,7 +14,7 @@ However, in the Critique section, I point out some flaws which I think weaken Nu
 * use of Heteroskedasticity-Consistent standard errors
 
 ---
-:arrow_right: best way to view the Rmarkdown report: click [here](https://raw.githack.com/edoardofalchi/Instrumental-variable-paper-replication-critique/blob/main/Nunn_replication%26critique.html) for the rendered html notebook
+:arrow_right: best way to view the Rmarkdown report: click [here](https://rawcdn.githack.com/edoardofalchi/Instrumental-variable-paper-replication-critique/b7772b4232afaef05318569eccf217c73a6fed5d/Nunn_replication&critique.html) for the rendered html notebook
 
 
 
