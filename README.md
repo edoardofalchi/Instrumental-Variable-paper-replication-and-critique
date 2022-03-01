@@ -9,7 +9,7 @@ His research question is:
 
 What this project does not include is questioning the author's aurgumentations. For a detailed evidence examination please refer to the author's paper which he made freely available on his [Harvard webiste](https://scholar.harvard.edu/nunn/publications/long-term-effects-africas-slave-trades) along with the [dataset](https://scholar.harvard.edu/nunn/pages/data-0).  
 
-However, in the Critique section, I point out some flaws which I think weaken Nunn's results and some improvements which I personally suggest are woth considering, namely:
+However, in the Critique section, I point out some flaws which I think weaken Nunn's results and some improvements which I personally suggest are worth considering, namely:
 * weak instrument
 * use of Heteroskedasticity-Consistent standard errors
 
